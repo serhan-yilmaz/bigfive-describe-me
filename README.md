@@ -1,3 +1,3 @@
 # bigfive-describe-me
 
-![](images/example_image.png)
+<img src="images/example_image.png" height="400"/>
