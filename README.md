@@ -5,6 +5,6 @@ It categorizes individuals across five key traits—Conscientiousness, Agreeable
 
 As a fun addition, individuals are also aligned with RPG roles and [ethical and moral alignment axes in D&D](https://en.wikipedia.org/wiki/Alignment_(Dungeons_%26_Dragons)). 
 
-To access the application, please visit: https://serhan-yilmaz.shinyapps.io/bigfive-describe-me
+To access: https://serhan-yilmaz.shinyapps.io/bigfive-describe-me
 
 <img src="images/example_image.png" height="350"/> <img src="images/example_image_2.png" height="350"/>
