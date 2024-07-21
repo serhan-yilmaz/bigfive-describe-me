@@ -1,0 +1,152 @@
+{
+	"1-1": {
+		"Name": "Paladin",
+		"Alignment": "Lawful Good",
+		"Description": "Honorable and principled. Fights for good while preserving the order of things.",
+		"Color": "#0dc3ce"
+	},
+	"1-2": {
+		"Name": "Custodian",
+		"Alignment": "Social Good",
+		"Description": "Values law and honor, but prioritizes the greater good above all else.",
+		"Color": "#25c17f"
+	},
+	"1-3": {
+		"Name": "Benefactor",
+		"Alignment": "Neutral Good",
+		"Description": "Uninfluenced by law or chaos, represents pure good.",
+		"Color": "#5ed416"
+	},
+	"1-4": {
+		"Name": "Avenger",
+		"Alignment": "Rebel Good",
+		"Description": "Heavily prioritizes the greater good, disrupts order when necessary.",
+		"Color": "#93c526"
+	},
+	"1-5": {
+		"Name": "Chaperone",
+		"Alignment": "Chaotic Good",
+		"Description": "Does what's right, disregarding honor codes and order.",
+		"Color": "#cfb00c"
+	},
+	"2-1": {
+		"Name": "Guardian",
+		"Alignment": "Lawful Moral",
+		"Description": "Leans to good by keeping order and maintaining honor.",
+		"Color": "#256abb"
+	},
+	"2-2": {
+		"Name": "Knight",
+		"Alignment": "Social Moral",
+		"Description": "Abides by law and values order. They do what they think is right, while abiding and preserving honor.",
+		"Color": "#51949E"
+	},
+	"2-3": {
+		"Name": "Altruist",
+		"Alignment": "Neutral Moral",
+		"Description": "Not influenced by law or chaos, focuses on morality. May often question their or other's actions.",
+		"Color": "#54932f"
+	},
+	"2-4": {
+		"Name": "Protestor",
+		"Alignment": "Rebel Moral",
+		"Description": "Fights for what they think is right, challenging the status quo.",
+		"Color": "#93843b"
+	},
+	"2-5": {
+		"Name": "Vagrant",
+		"Alignment": "Chaotic Moral",
+		"Description": "Doesn't follow honor codes, adheres to their own moral compass and beliefs.", 
+		"Color": "#c4951a"
+	},
+	"3-1": {
+		"Name": "Judge",
+		"Alignment": "Lawful Neutral",
+		"Description": "Strongly adhere order and honor. To them, morality comes in second.", 
+		"Color": "#1733c4"
+	},
+	"3-2": {
+		"Name": "Abettor",
+		"Alignment": "Social Neutral",
+		"Description": "A non-committal follower of the law. Upholds and maintains order, while not feeling beholden to it.", 
+		"Color": "#2f3e8d"
+	},
+	"3-3": {
+		"Name": "Agnostic",
+		"Alignment": "True Neutral",
+		"Description": "Engages with all alignments but remains moderate, will not act extremely toward any side. May not go out of their way for the sake of good, but would not actively pursue evil either.", 
+		"Color": "#121212"
+	},
+	"3-4": {
+		"Name": "Nomad",
+		"Alignment": "Rebel Neutral",
+		"Description": "Tends to break honor codes and laws as they see fit to survive or otherwise, for their own freedom.", 
+		"Color": "#9c5d30"
+	},
+	"3-5": {
+		"Name": "Outlaw",
+		"Alignment": "Chaotic Neutral",
+		"Description": "Actively challenge and flout law, honor and order for the sake of freedom. Morality comes in second to them.", 
+		"Color": "#d96e21"
+	},
+	"4-1": {
+		"Name": "Enforcer",
+		"Alignment": "Lawful Impure",
+		"Description": "Follows an ambiguous or flawed code of honor and morals. May be extremely rigid and strict.", 
+		"Color": "#552fc6"
+	},
+	"4-2": {
+		"Name": "Sovereign",
+		"Alignment": "Social Impure",
+		"Description": "A non-committal follower of the law. May have separate goals that don't consider morals.", 
+		"Color": "#914da3"
+	},
+	"4-3": {
+		"Name": "Egotist",
+		"Alignment": "Neutral Impure",
+		"Description": "Not influenced by law or chaos, has a tendency to egoistic actions and acting self-servingly.", 
+		"Color": "#884d62"
+	},
+	"4-4": {
+		"Name": "Marauder",
+		"Alignment": "Rebel Impure",
+		"Description": "Apathetic to honor, indifferent to morality. May be willing to screw over others to benefit themselves or their allies.", 
+		"Color": "#b22a2a"
+	},
+	"4-5": {
+		"Name": "Thug",
+		"Alignment": "Chaotic Impure",
+		"Description": "Disrupt any law or code to get things going their way. Completely disregards any morality or ethics.", 
+		"Color": "#b9431e"
+	},
+	"5-1": {
+		"Name": "Tyrant",
+		"Alignment": "Lawful Evil",
+		"Description": "Represents evil, while preserving the order of things.", 
+		"Color": "#a21fc3"
+	},
+	"5-2": {
+		"Name": "Despot",
+		"Alignment": "Social Evil",
+		"Description": "May break their orderly discipline if it gets in their way of screwing someone over or pursuing evil.", 
+		"Color": "#AA209C"
+	},
+	"5-3": {
+		"Name": "Malefactor",
+		"Alignment": "Neutral Evil",
+		"Description": "Uninfluenced by law or chaos, pursues and represents evil.", 
+		"Color": "#90244b"
+	},
+	"5-4": {
+		"Name": "Wretch",
+		"Alignment": "Rebel Evil",
+		"Description": "Dishonest and ruthless, they break codes and rules to other's detriment without any compassion.", 
+		"Color": "#9e1939"
+	},
+	"5-5": {
+		"Name": "Ravager",
+		"Alignment": "Chaotic Evil",
+		"Description": "Pursue evil and flout all ethics, harmony and order in society.", 
+		"Color": "#df1616"
+	}
+}

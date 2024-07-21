@@ -1,0 +1,317 @@
+{
+	"Gregariousness": {
+		"Positive": "Outgoing",
+		"Long Positive": "Outgoing and sociable",
+		"Negative": "Lone-wolf",
+		"Long Negative": "Loves solitude",
+		"Neutral": "Moderately sociable",
+		"Slight Positive": "Rather outgoing",
+		"Slight Negative": "Rather solitary"
+	},
+	"Assertiveness": {
+		"Positive": "Assertive",
+		"Long Positive": "Decisive and authoritative",
+		"Negative": "Docile",
+		"Long Negative": "Passive and quiet",
+		"Neutral": "Moderately assertive",
+		"Slight Positive": "Rather decisive",
+		"Slight Negative": "Rather passive"
+	},
+	"Activity Level": {
+		"Positive": "Energetic",
+		"Long Positive": "Energetic and fast-paced",
+		"Negative": "Slow-paced",
+		"Long Negative": "Slow-paced and laid back",
+		"Neutral": "Moderately energetic",
+		"Slight Positive": "Rather fast-paced",
+		"Slight Negative": "Rather slow-paced"
+	},
+	"Excitement-Seeking": {
+		"Positive": "Thrill-seeker",
+		"Long Positive": "Thrill seeker and risk taker",
+		"Negative": "Quiet-lover",
+		"Long Negative": "Calm and quiet-lover",
+		"Neutral": "Moderately thrill-seeking",
+		"Slight Positive": "Rather bold and daring",
+		"Slight Negative": "Rather quiet-lover"
+	},
+	"Cheerfulness": {
+		"Positive": "Joyful",
+		"Long Positive": "Joyful and enthusiastic",
+		"Negative": "Serious",
+		"Long Negative": "Serious and unenthusiastic",
+		"Neutral": "Moderately enthusiastic",
+		"Slight Positive": "Rather joyful",
+		"Slight Negative": "Rather serious"
+	},
+	"Friendliness": {
+		"Positive": "Warm",
+		"Long Positive": "Warm and approachable",
+		"Negative": "Aloof",
+		"Long Negative": "Cold and aloof",
+		"Neutral": "Moderately friendly",
+		"Slight Positive": "Rather warm",
+		"Slight Negative": "Rather cold"
+	},
+	"Self-Efficacy": {
+		"Positive": "Confident",
+		"Long Positive": "Competent and confident",
+		"Negative": "Insecure",
+		"Long Negative": "Insecure about their abilities",
+		"Neutral": "Moderately confident",
+		"Slight Positive": "Rather confident",
+		"Slight Negative": "Rather unconfident"
+	},
+	"Orderliness": {
+		"Positive": "Organized",
+		"Long Positive": "Organized and orderly",
+		"Negative": "Disorganized",
+		"Long Negative": "Disorganized and messy",
+		"Neutral": "Moderately organized",
+		"Slight Positive": "Rather orderly",
+		"Slight Negative": "Rather disorganized"
+	},
+	"Dutifulness": {
+		"Positive": "Loyal",
+		"Long Positive": "Loyal and reliable",
+		"Negative": "Unfaithful",
+		"Long Negative": "Unreliable and unfaithful",
+		"Neutral": "Moderately faithful",
+		"Slight Positive": "Rather loyal",
+		"Slight Negative": "Rather unfaithful"
+	},
+	"Achievement-Striving": {
+		"Positive": "Ambitious",
+		"Long Positive": "Ambitious and driven",
+		"Negative": "Unambitious",
+		"Long Negative": "Laid-back and not ambitious",
+		"Neutral": "Moderately ambitious",
+		"Slight Positive": "Rather ambitious",
+		"Slight Negative": "Rather unambitious"
+	},
+	"Self-Discipline": {
+		"Positive": "Disciplined",
+		"Long Positive": "Planned and disciplined",
+		"Negative": "Undisciplined",
+		"Long Negative": "Spontaneous and frequent procrastinator",
+		"Neutral": "Moderately disciplined",
+		"Slight Positive": "Rather disciplined",
+		"Slight Negative": "Rather undisciplined"
+	},
+	"Cautiousness": {
+		"Positive": "Cautious",
+		"Long Positive": "Cautious and careful",
+		"Negative": "Impulsive",
+		"Long Negative": "Impulsive and hasty",
+		"Neutral": "Moderately cautious",
+		"Slight Positive": "Rather careful",
+		"Slight Negative": "Rather impulsive"
+	},
+	"Trust": {
+		"Positive": "Trusting",
+		"Long Positive": "Trusting and a little gullible",
+		"Negative": "Skeptical",
+		"Long Negative": "Skeptical and distrustful",
+		"Neutral": "Moderately trusting",
+		"Slight Positive": "Rather trusting",
+		"Slight Negative": "Rather skeptical"
+	},
+	"Morality": {
+		"Positive": "Honest",
+		"Long Positive": "Honest and straightforward",
+		"Negative": "Cunning",
+		"Long Negative": "Cunning and manipulative",
+		"Neutral": "Moderately cunning",
+		"Slight Positive": "Rather straightforward",
+		"Slight Negative": "Rather deceptive"
+	},
+	"Altruism": {
+		"Positive": "Helpful",
+		"Long Positive": "Caring and supportive",
+		"Negative": "Self-centered",
+		"Long Negative": "Self-centered and unsupportive",
+		"Neutral": "Moderately supportive",
+		"Slight Positive": "Rather caring",
+		"Slight Negative": "Rather selfish"
+	},
+	"Cooperation": {
+		"Positive": "Cooperative",
+		"Long Positive": "Cooperative and accommodating",
+		"Negative": "Confrontational",
+		"Long Negative": "Confrontational and aggressive",
+		"Neutral": "Moderately cooperative",
+		"Slight Positive": "Rather accommodating",
+		"Slight Negative": "Rather confrontational"
+	},
+	"Modesty": {
+		"Positive": "Humble",
+		"Long Positive": "Humble and self-critical",
+		"Negative": "Arrogant",
+		"Long Negative": "Arrogant and boastful",
+		"Neutral": "Moderately modest",
+		"Slight Positive": "Rather humble",
+		"Slight Negative": "Rather arrogant"
+	},
+	"Sympathy": {
+		"Positive": "Compassionate",
+		"Long Positive": "Compassionate and sympathetic",
+		"Negative": "Cold-hearted",
+		"Long Negative": "Cold-hearted and indifferent",
+		"Neutral": "Moderately sympathetic",
+		"Slight Positive": "Rather compassionate",
+		"Slight Negative": "Rather cold-hearted"
+	},
+	"Anxiety": {
+		"Positive": "Worrier",
+		"Long Positive": "Tense and prone to worry",
+		"Negative": "Lighthearted",
+		"Long Negative": "Relaxed and carefree",
+		"Neutral": "Moderately relaxed",
+		"Slight Positive": "Rather tense",
+		"Slight Negative": "Rather carefree"
+	},
+	"Anger": {
+		"Positive": "Quick-tempered",
+		"Long Positive": "Quick-tempered and intense",
+		"Negative": "Peaceful",
+		"Long Negative": "Calm and patient",
+		"Neutral": "Moderately calm",
+		"Slight Positive": "Rather irritable",
+		"Slight Negative": "Rather peaceful"
+	},
+	"Depression": {
+		"Negative": "Optimistic",
+		"Long Negative": "Content and optimistic",
+		"Positive": "Melancholic",
+		"Long Positive": "Wistful and often melancholic",
+		"Neutral": "Moderately optimistic",
+		"Slight Positive": "Rather melancholic",
+		"Slight Negative": "Rather optimistic"
+	},
+	"Self-Consciousness": {
+		"Negative": "Self-assured",
+		"Long Negative": "Secure and self-assured",
+		"Positive": "Shy",
+		"Long Positive": "Shy and self-conscious",
+		"Neutral": "Moderately secure",
+		"Slight Positive": "Rather shy",
+		"Slight Negative": "Rather bold"
+	},
+	"Immoderation": {
+		"Negative": "Measured",
+		"Long Negative": "Well-balanced and resistant to temptations",
+		"Positive": "Self-indulgent",
+		"Long Positive": "Immoderate and prone to temptations",
+		"Neutral": "Moderately restrained",
+		"Slight Positive": "Rather unrestrained",
+		"Slight Negative": "Rather measured"
+	},
+	"Vulnerability": {
+		"Negative": "Coolheaded",
+		"Long Negative": "Coolheaded and resilient",
+		"Positive": "Sensitive",
+		"Long Positive": "Sensitive and fragile ",
+		"Neutral": "Moderately resilient",
+		"Slight Positive": "Rather prone to stress",
+		"Slight Negative": "Rather stress-resistant"
+	},
+	"Imagination": {
+		"Negative": "Factual",
+		"Long Negative": "Practical and factual",
+		"Positive": "Imaginative",
+		"Long Positive": "Creative and imaginative",
+		"Neutral": "Moderately imaginative",
+		"Slight Positive": "Rather creative",
+		"Slight Negative": "Rather factual"
+	},
+	"Artistic Interests": {
+		"Negative": "Art-agnostic",
+		"Long Negative": "Aesthetically indifferent",
+		"Positive": "Artistic",
+		"Long Positive": "Artistic and appreciative",
+		"Neutral": "Moderate artistic interest",
+		"Slight Positive": "Rather artistic",
+		"Slight Negative": "Rather pragmatic"
+	},
+	"Emotionality": {
+		"Negative": "Rational",
+		"Long Negative": "Detached and rational",
+		"Positive": "Expressive",
+		"Long Positive": "Empathetic and expressive",
+		"Neutral": "Moderately emotional",
+		"Slight Positive": "Rather emotional",
+		"Slight Negative": "Rather rational"
+	},
+	"Adventurousness": {
+		"Negative": "Routine lover",
+		"Long Negative": "Settled and routine-oriented",
+		"Positive": "Adventurous",
+		"Long Positive": "Bold and Adventurous",
+		"Neutral": "Moderately exploratory",
+		"Slight Positive": "Rather adventurous",
+		"Slight Negative": "Rather settled"
+	},
+	"Intellect": {
+		"Negative": "Down-to-earth",
+		"Long Negative": "Practical and action-oriented",
+		"Positive": "Analytical",
+		"Long Positive": "Curious and analytical",
+		"Neutral": "Moderately curious",
+		"Slight Positive": "Rather analytical",
+		"Slight Negative": "Rather uncurious"
+	},
+	"Liberalism": {
+		"Negative": "Traditional",
+		"Long Negative": "Conservative and traditional",
+		"Positive": "Open-minded",
+		"Long Positive": "Open-minded and progressive",
+		"Neutral": "Moderately liberal",
+		"Slight Positive": "Rather open-minded",
+		"Slight Negative": "Rather traditional"
+	}, 
+	"Extraversion": {
+		"Negative": "Intraverted", 
+		"Long Negative": "Highly intraverted", 
+		"Positive": "Extraverted", 
+		"Long Positive": "Highly extraverted", 
+		"Neutral": "Balanced extraversion",
+		"Slight Positive": "Rather extraverted",
+		"Slight Negative": "Rather intraverted"
+	},
+	"Conscientiousness": {
+		"Negative": "Directionless", 
+		"Long Negative": "Highly directionless", 
+		"Positive": "Conscientious", 
+		"Long Positive": "Highly conscientious", 
+		"Neutral": "Balanced conscientiousness",
+		"Slight Positive": "Rather conscientious",
+		"Slight Negative": "Rather directionless"
+	},
+	"Agreeableness": {
+		"Negative": "Antagonistic", 
+		"Long Negative": "Highly antagonistic", 
+		"Positive": "Agreeable", 
+		"Long Positive": "Highly agreeable", 
+		"Neutral": "Balanced agreeableness",
+		"Slight Positive": "Rather agreeable",
+		"Slight Negative": "Rather antagonistic"
+	},
+	"Neuroticism": {
+		"Negative": "Emotionally stable", 
+		"Long Negative": "Highly emotionally stable", 
+		"Positive": "Neurotic", 
+		"Long Positive": "Highly neurotic", 
+		"Neutral": "Balanced neuroticism",
+		"Slight Positive": "Rather neurotic",
+		"Slight Negative": "Rather emotionally stable"
+	},
+	"Openness to Experience": {
+		"Negative": "Closed to experience", 
+		"Long Negative": "Highly closed to experience", 
+		"Positive": "Open to experience", 
+		"Long Positive": "Highly open to experience", 
+		"Neutral": "Balanced openness to experience",
+		"Slight Positive": "Rather open to experience",
+		"Slight Negative": "Rather closed to experience"
+	}
+}
